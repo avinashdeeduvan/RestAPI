@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-28T01:07:26 IST" name="Default suite" finished-at="2024-02-28T01:07:31 IST" duration-ms="5099">
+    <groups>
+    </groups>
+    <test started-at="2024-02-28T01:07:26 IST" name="Default test" finished-at="2024-02-28T01:07:31 IST" duration-ms="5099">
+      <class name="SpecBuilders.SpecTes1">
+        <test-method signature="test1()[pri:0, instance:SpecBuilders.SpecTes1@57cf54e1]" started-at="2024-02-28T01:07:26 IST" name="test1" finished-at="2024-02-28T01:07:31 IST" duration-ms="4971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- SpecBuilders.SpecTes1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
