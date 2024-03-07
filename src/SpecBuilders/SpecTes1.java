@@ -35,7 +35,7 @@ public class SpecTes1 {
 		
 		String responseString=response.asString();
 		System.out.println(responseString);
-		System.out.println("Newly Updated");
+		System.out.println("Newly Updated Code for Commit");
 		
 		
 	}
